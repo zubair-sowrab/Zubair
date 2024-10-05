@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PROJECTS &#8211; Zubair Mahmood Sowrab</title>
+	<atom:link href="https://zubair-sowrab.github.io/zubair123/category/website-2/website/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zubair-sowrab.github.io/zubair123</link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Oct 2024 18:04:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Touhidul Islam: Portfolio</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2024/10/05/touhidul-islam-portfolio/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2024/10/05/touhidul-islam-portfolio/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2024 18:04:08 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=218</guid>
+
+					<description><![CDATA[I created a dynamic portfolio website for Touhidul Islam using WordPress, designed to showcase his professional journey and personal interests. The site includes key sections like "About Me," where visitors can learn more about his background, and "Experience," which highlights his career milestones. The "Projects" section features detailed case studies of his work, while "Contact" provides an easy way for potential collaborators to get in touch. Additionally, a unique "Travel" section shares his adventures and explorations. This well-structured and visually appealing website reflects Touhidul’s professional and personal interests, enhancing his online presence.]]></description>
+										<content:encoded><![CDATA[I created a dynamic portfolio website for Touhidul Islam using WordPress, designed to showcase his professional journey and personal interests. The site includes key sections like "About Me," where visitors can learn more about his background, and "Experience," which highlights his career milestones. The "Projects" section features detailed case studies of his work, while "Contact" provides an easy way for potential collaborators to get in touch. Additionally, a unique "Travel" section shares his adventures and explorations. This well-structured and visually appealing website reflects Touhidul’s professional and personal interests, enhancing his online presence.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2024/10/05/touhidul-islam-portfolio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Millyracks: An Online Clothing Store</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2023/11/16/millyracks-an-online-clothing-site/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2023/11/16/millyracks-an-online-clothing-site/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2023 17:55:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=215</guid>
+
+					<description><![CDATA[MillyRacks is a WordPress-based website that embodies a unique aesthetic, blending classic streetwear with modern influences. Our brand celebrates the fusion of vintage styles and cultural elements, designed for bold individuals who are confident and unapologetically themselves. We believe in fashion as a powerful means of self-expression, helping our customers embrace their authentic selves.
+
+Drawing inspiration from the rich history of streetwear, our clothing pays tribute to iconic brands of the 80s and 90s while incorporating vibrant contemporary designs. Crafted with high-quality materials and striking graphical illustrations, MillyRacks aims to redefine streetwear for today’s trendsetters.]]></description>
+										<content:encoded><![CDATA[MillyRacks is a WordPress-based website that embodies a unique aesthetic, blending classic streetwear with modern influences. Our brand celebrates the fusion of vintage styles and cultural elements, designed for bold individuals who are confident and unapologetically themselves. We believe in fashion as a powerful means of self-expression, helping our customers embrace their authentic selves.
+
+Drawing inspiration from the rich history of streetwear, our clothing pays tribute to iconic brands of the 80s and 90s while incorporating vibrant contemporary designs. Crafted with high-quality materials and striking graphical illustrations, MillyRacks aims to redefine streetwear for today’s trendsetters.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2023/11/16/millyracks-an-online-clothing-site/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

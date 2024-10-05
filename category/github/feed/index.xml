@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PROJECTS &#8211; Zubair Mahmood Sowrab</title>
+	<atom:link href="https://zubair-sowrab.github.io/zubair123/category/github/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zubair-sowrab.github.io/zubair123</link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Oct 2024 18:16:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Predicting Company Bankruptcy and Financial Status Analysis Using Machine Learning and Deep Learning</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2024/09/05/predicting-company-bankruptcy-and-financial-status-analysis-using-machine-learning-and-deep-learning/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2024/09/05/predicting-company-bankruptcy-and-financial-status-analysis-using-machine-learning-and-deep-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Thu, 05 Sep 2024 17:41:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=209</guid>
+
+					<description><![CDATA[ This project, predicts inflation rates based on the following factors: CPI Value, Currency against USD, Money Supply, Interest Rates, GDP (in BDT) and GDP Per Capita. This research used four machine learning models and four deep learning models for predicting future rates. The best machine learning model for forecasting inflation was Random Forest with an R-squared score of 0.96 and the best deep learning model was found to be a Convolutional Neural Network (CNN) with an accuracy of 0.94.]]></description>
+										<content:encoded><![CDATA[ This project, predicts inflation rates based on the following factors: CPI Value, Currency against USD, Money Supply, Interest Rates, GDP (in BDT) and GDP Per Capita. This research used four machine learning models and four deep learning models for predicting future rates. The best machine learning model for forecasting inflation was Random Forest with an R-squared score of 0.96 and the best deep learning model was found to be a Convolutional Neural Network (CNN) with an accuracy of 0.94.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2024/09/05/predicting-company-bankruptcy-and-financial-status-analysis-using-machine-learning-and-deep-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Data Driven Approach to Forecasting Inflation inBangladesh</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2024/09/05/data-driven-approach-to-forecasting-inflation-inbangladesh/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2024/09/05/data-driven-approach-to-forecasting-inflation-inbangladesh/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Thu, 05 Sep 2024 17:31:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=206</guid>
+
+					<description><![CDATA[The research uses machine learning techniques to predict the chances that a company goes bankrupt based on 
+various factors. For predicting the bankruptcy, we have used various machine learning techniques: SVM, XGBoost, Random Forest, Logistic Regression and Decision Tree. On performing our experiments with the models, we found Random Forest to be the best technique 
+for predicting bankruptcy. The model produced a Training accuracy of 99.1%. We also applied different deep learning methods such as DNN, GRU, TCN to compare ML models performance. 
+We found that each of these 3 DL models produce a training accuracy of approximately 98%. Bankruptcy has been on the rise over the past decade and it is very important to predict and take 
+precautions for a business. ]]></description>
+										<content:encoded><![CDATA[The research uses machine learning techniques to predict the chances that a company goes bankrupt based on 
+various factors. For predicting the bankruptcy, we have used various machine learning techniques: SVM, XGBoost, Random Forest, Logistic Regression and Decision Tree. On performing our experiments with the models, we found Random Forest to be the best technique 
+for predicting bankruptcy. The model produced a Training accuracy of 99.1%. We also applied different deep learning methods such as DNN, GRU, TCN to compare ML models performance. 
+We found that each of these 3 DL models produce a training accuracy of approximately 98%. Bankruptcy has been on the rise over the past decade and it is very important to predict and take 
+precautions for a business. ]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2024/09/05/data-driven-approach-to-forecasting-inflation-inbangladesh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PetDekho: Pet-Care Application and Website</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2024/06/15/petdekho-pet-care-application-and-website/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2024/06/15/petdekho-pet-care-application-and-website/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 17:28:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=203</guid>
+
+					<description><![CDATA[PetDekho is a startup based project that is a one stop solution for pets. The pet industry in Bangladesh is a market which is yet to be fully explored and PetDekho aims to do just that.
+The project solves problems for pet business owners, veterinarians, pet specialists and pet owners. PetDekho aims to provide services such as a marketplace, vet services, pet specialist services and also pet transportation services. The project is a website which provides the services mentioned above. The project also has a mobile application which is used to transport animals.]]></description>
+										<content:encoded><![CDATA[PetDekho is a startup based project that is a one stop solution for pets. The pet industry in Bangladesh is a market which is yet to be fully explored and PetDekho aims to do just that.
+The project solves problems for pet business owners, veterinarians, pet specialists and pet owners. PetDekho aims to provide services such as a marketplace, vet services, pet specialist services and also pet transportation services. The project is a website which provides the services mentioned above. The project also has a mobile application which is used to transport animals.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2024/06/15/petdekho-pet-care-application-and-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>High Efficiency Comparison of ProgrammingLanguages in Algorithm Development</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2023/08/11/high-efficiency-comparison-of-programminglanguages-in-algorithm-development/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2023/08/11/high-efficiency-comparison-of-programminglanguages-in-algorithm-development/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 17:25:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=200</guid>
+
+					<description><![CDATA[The study is to compare efficiency of of programming languages based on certain criterion. The study uses different algorithms with different dataset sizes to compare the efficiency. The following report will discuss, analyse and evaluate the efficiency of three programming languages- C, Java and Python with different algorithms and datasets in the form of graphs.]]></description>
+										<content:encoded><![CDATA[The study is to compare efficiency of of programming languages based on certain criterion. The study uses different algorithms with different dataset sizes to compare the efficiency. The following report will discuss, analyse and evaluate the efficiency of three programming languages- C, Java and Python with different algorithms and datasets in the form of graphs.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2023/08/11/high-efficiency-comparison-of-programminglanguages-in-algorithm-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Daowat: Canteen Management System</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2023/07/15/daowat-canteen-management-system/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2023/07/15/daowat-canteen-management-system/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Sat, 15 Jul 2023 17:20:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=197</guid>
+
+					<description><![CDATA[This project proposes a website for managing cafeteria operations, aiming to transition from traditional methods to a more efficient digital solution. The canteen is a vital part of educational institutions, yet its management often remains outdated. Our system addresses issues like food availability, payment challenges, and staffing efficiency.
+
+The website will feature user-friendly ordering and payment options, real-time inventory management, and a robust database for tracking menu items and customer information. By streamlining processes, we aim to enhance customer satisfaction and overall cafeteria performance, making this system applicable to various food service environments, including corporate canteens and restaurants.]]></description>
+										<content:encoded><![CDATA[This project proposes a website for managing cafeteria operations, aiming to transition from traditional methods to a more efficient digital solution. The canteen is a vital part of educational institutions, yet its management often remains outdated. Our system addresses issues like food availability, payment challenges, and staffing efficiency.
+
+The website will feature user-friendly ordering and payment options, real-time inventory management, and a robust database for tracking menu items and customer information. By streamlining processes, we aim to enhance customer satisfaction and overall cafeteria performance, making this system applicable to various food service environments, including corporate canteens and restaurants.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2023/07/15/daowat-canteen-management-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arduino based solar tracker</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2023/06/05/arduino-based-solar-tracker/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2023/06/05/arduino-based-solar-tracker/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2023 17:14:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=194</guid>
+
+					<description><![CDATA[The project explores an Arduino-based solar tracker, a device designed to enhance solar energy absorption by maintaining the optimal angle with the sun. By utilizing light-dependent resistors (LDRs) for automatic control, this dual-axis tracker adjusts the solar panel's position throughout the day. The project aims to provide an open hardware/software test bench for students to understand control theory and its practical applications.
+This solar tracking system demonstrates increased efficiency compared to static panels, leading to higher current, voltage, and power outputs. Overall, it showcases the benefits of a solar tracker in reducing electricity costs and optimizing solar energy utilization.]]></description>
+										<content:encoded><![CDATA[The project explores an Arduino-based solar tracker, a device designed to enhance solar energy absorption by maintaining the optimal angle with the sun. By utilizing light-dependent resistors (LDRs) for automatic control, this dual-axis tracker adjusts the solar panel's position throughout the day. The project aims to provide an open hardware/software test bench for students to understand control theory and its practical applications.
+This solar tracking system demonstrates increased efficiency compared to static panels, leading to higher current, voltage, and power outputs. Overall, it showcases the benefits of a solar tracker in reducing electricity costs and optimizing solar energy utilization.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2023/06/05/arduino-based-solar-tracker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simple Movie and TV show Database</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2022/08/27/simple-movie-and-tv-show-database/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2022/08/27/simple-movie-and-tv-show-database/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2022 17:01:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=182</guid>
+
+					<description><![CDATA[The project is Movie and TV show database. This is a database that will allow users to view information of their favorite movies and TV shows such as information about the actors, director, synopsis, etc. Users will be able to create accounts and rate and review movies and TV shows as
+well. Users will be able to create discussions which other users can join as well. Users can even request to add new movies or TV Shows as well. This database allows users to stay connected with the world of movies and TV shows. It is loosely based on popular sites such as IMDB and Rotten Tomatoes.]]></description>
+										<content:encoded><![CDATA[
+<p><br>Introduction<br>The project is Movie and TV show database. This is a database that will allow users to view<br>information of their favorite movies and TV shows such as information about the actors, director,<br>synopsis, etc. Users will be able to create accounts and rate and review movies and TV shows as<br>well. Users will be able to create discussions which other users can join as well. Users can even<br>request to add new movies or TV Shows as well.<br>This database allows users to stay connected with the world of movies and TV shows. It is<br>loosely based on popular sites such as IMDB and Rotten Tomatoes.<br>Background research/Motivations<br>This project, Movie and TV show database is based on/inspired from movie and TV show review<br>sites such as IMDB, which is the largest database of movies and TV shows and Rotten<br>Tomatoes, which is one of the most popular review sites/blogs in the world.<br>This project also appealed to us because we could store a large amount of data and make the<br>database full of variety. It is a database that we could use to help the users know about their<br>favorite movies and TV Shows. It is also a database where we could add interesting features that<br>would not only be helpful for the users but also for us, by working on different features, it will<br>help us learn and grow as programmers and coders.<br>We have tried to implement new features in the project such as user discussions which could be<br>very useful for movie and TV show fanatics as they can not only just check reviews and ratings<br>but also get insight from other users and share their views as well, similar to a group chat.<br>Resources\Technologies<br>To create the project “Movie and TV Show Database”, we used XAMPP to work on SQL and<br>store data in the database. We used PHP for connection between the front and back end. We used<br>HTML and CSS for the front end. Visual Studio Code is the software we used for working using<br>PHP.<br>Project Design<br>In the above flowchart, it shows that once the user enters the website, they have to either register or<br>login. Then, they can access the menu. In the menu they can view the list of movies, list of TV shows,<br>discussion option or the request option. They can search for movies and TV shows and view their ratings<br>and, details, etc. Users can take part in a discussion panel where they can interact with other users<br>about their favorite movies or TV shows. Users can also use the request option to request us to add<br>movies or TV shows which they were unable to find.<br>Sitemap<br>Snapshots</p>
+
+
+
+<p>Conclusion and Future Work<br>This was a very interesting project for all three of us. It helped us learn how create database<br>projects using php and html css. This was the first time for us working with a proper database<br>and it will surely help us in the future. Not only has it given us a proper idea of working with<br>databases, but it has also helped us to learn how to create projects under deadlines and pressure.<br>This project has given us motivation to deal with new projects and to learn new languages and<br>frameworks. We have already planned to work on our existing project and add even more new<br>features to it. The user interface can be improved, more features such as polls could be added.<br>These are just some of the features that we can work on. The existing features can be developed<br>and can be made even better. This project has definitely has been a huge boon to us and will<br>serve as motivation for developing new projects.<br></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2022/08/27/simple-movie-and-tv-show-database/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>E-Healthcare System (Java Swing)</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2021/06/10/e-healthcare-system-java-swing/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2021/06/10/e-healthcare-system-java-swing/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 16:59:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=179</guid>
+
+					<description><![CDATA[The E-Healthcare System developed using Java Swing is a comprehensive application designed to streamline healthcare management. Users can easily create accounts to access various features, including booking appointments with healthcare providers and viewing essential COVID-19 information. The system allows for seamless generation of receipts for services rendered, enhancing financial transparency. Users can efficiently manage their records by updating or deleting them as necessary, ensuring that their health information is always current. Additionally, the application provides options to check and print appointment details, making it user-friendly and efficient. This system aims to improve patient experience and simplify healthcare interactions.]]></description>
+										<content:encoded><![CDATA[The E-Healthcare System developed using Java Swing is a comprehensive application designed to streamline healthcare management. Users can easily create accounts to access various features, including booking appointments with healthcare providers and viewing essential COVID-19 information. The system allows for seamless generation of receipts for services rendered, enhancing financial transparency. Users can efficiently manage their records by updating or deleting them as necessary, ensuring that their health information is always current. Additionally, the application provides options to check and print appointment details, making it user-friendly and efficient. This system aims to improve patient experience and simplify healthcare interactions.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2021/06/10/e-healthcare-system-java-swing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simple Taxi Booking System (C programming)</title>
+		<link>https://zubair-sowrab.github.io/zubair123/2020/11/05/simple-taxi-booking-system-c-programming/</link>
+					<comments>https://zubair-sowrab.github.io/zubair123/2020/11/05/simple-taxi-booking-system-c-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[zubair224]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2020 16:42:00 +0000</pubDate>
+				<category><![CDATA[PROJECTS]]></category>
+		<guid isPermaLink="false">https://zubair-sowrab.github.io/zubair123/?p=172</guid>
+
+					<description><![CDATA[The Simple Taxi Booking System, developed in C programming, provides users with a seamless experience for booking taxis. Users can create an account to access the system, allowing them to book three types of vehicles based on their needs. The system offers features to check past orders, ensuring users can track their previous rides easily. Additionally, it calculates the distance and fare for each journey, providing transparency in pricing. Users can update or delete their records, ensuring their information remains current. Moreover, the system allows users to check detailed information about available vehicles, enhancing the overall booking experience.]]></description>
+										<content:encoded><![CDATA[The Simple Taxi Booking System, developed in C programming, provides users with a seamless experience for booking taxis. Users can create an account to access the system, allowing them to book three types of vehicles based on their needs. The system offers features to check past orders, ensuring users can track their previous rides easily. Additionally, it calculates the distance and fare for each journey, providing transparency in pricing. Users can update or delete their records, ensuring their information remains current. Moreover, the system allows users to check detailed information about available vehicles, enhancing the overall booking experience.]]></content:encoded>
+					
+					<wfw:commentRss>https://zubair-sowrab.github.io/zubair123/2020/11/05/simple-taxi-booking-system-c-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
